@@ -1,0 +1,22 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+}
+h1{
+    font-size: 50px;
+}
+.Highlight {color: orangered;}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.A1{
+    width: 40%;
+    float: right;
+    margin-right: 10%;
+    padding-left: 2%;
+}
+.half-width{
+    margin-top: 20%;
+    margin-left: 5%;
+}
